@@ -1,8 +1,8 @@
 /* ==UserStyle==
-@name           Dark FT.com Edition
+@name           Dark FT.com
 @namespace      github.com/openstyles/stylus
 @version        1.0.0
-@description    An unofficial dark mode edition of FT.com - to save my eyes from being burnt.
+@description    A homebrewed dark mode style of FT.com
 @author         James Loveridge
 ==/UserStyle== */
 @-moz-document regexp("^https:\\/\\/www.ft.com\\/(?!__origami).*$") {
